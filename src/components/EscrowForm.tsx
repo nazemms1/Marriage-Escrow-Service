@@ -85,7 +85,6 @@ export function EscrowForm() {
     setSendError(null)
 
     const templateParams = {
-      to_email: 'nazem.msouti@gmail.com',
       submission_date: new Date().toLocaleDateString('en-GB', {
         weekday: 'long', year: 'numeric', month: 'long', day: 'numeric',
       }),
