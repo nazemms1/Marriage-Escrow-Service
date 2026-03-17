@@ -4,7 +4,8 @@
       "Bash(npm install:*)",
       "Bash(npm run:*)",
       "Bash(npx tsc:*)",
-      "Bash(cmd /c \"rmdir /s /q node_modules\")"
+      "Bash(cmd /c \"rmdir /s /q node_modules\")",
+      "Bash(npx gh-pages:*)"
     ]
   }
 }
